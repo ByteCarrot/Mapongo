@@ -47,6 +47,7 @@
     <Compile Include="..\Mapongo\Properties\AssemblyInfo.cs">
       <Link>Properties\AssemblyInfo.cs</Link>
     </Compile>
+    <Compile Include="TestFixtureBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
